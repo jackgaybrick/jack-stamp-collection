@@ -1,6 +1,6 @@
 Jack's Stamp Collection App
 ---
 
-# About
+# About Jack
 
 Stuff about Jack...
